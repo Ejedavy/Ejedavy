@@ -6,7 +6,7 @@
 } -->
 
 <h1 align="center">Hi 👋, I'm David Eje</h1>
-<h3 align="center">I write Rust</h3>
+<h3 align="center">I design and implement robust software systems</h3>
 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ejedavy&label=Profile%20views&color=0e75b6&style=flat" alt="ejedavy" /> </p>
@@ -15,11 +15,11 @@
 
 <p align="left"> <a href="https://twitter.com/ejedavy" target="blank"><img src="https://img.shields.io/twitter/follow/ejedavy?logo=twitter&style=for-the-badge" alt="ejedavy" /></a> </p>
 
-- 🌱 I’m currently working on **AI projects**
+- 🌱 I’m currently working on **Backend Projects**
 
-- 👯 I’m looking to collaborate on **any machine learning project**
+- 👯 I’m looking to collaborate on **building data intensive systems to run at scale**
 
-- 💬 Ask me about **Machine Learning, Natural Language Processing**
+- 💬 Ask me about **System Design, Backend Development and Algorithms :)**
 
 - 📫 How to reach me **ejeohejidavid@gmail.com**
 
