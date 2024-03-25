@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ejedavy" alt="ejedavy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ejedavy" target="blank"><img src="https://img.shields.io/twitter/follow/ejedavy?logo=twitter&style=for-the-badge" alt="ejedavy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ejeoheji" target="blank"><img src="https://img.shields.io/twitter/follow/ejedavy?logo=twitter&style=for-the-badge" alt="ejedavy" /></a> </p>
 
 - 🌱 I’m currently working on **Backend Projects**
 
